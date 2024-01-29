@@ -1,0 +1,2 @@
+# Flutter-foodbuddy
+foodbuddy project
